@@ -1,5 +1,0 @@
-mysql
-mongodb
-nginx
-tortoiseSVN(жпндсОят╟Э)
-nodejs
